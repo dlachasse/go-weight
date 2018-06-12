@@ -5,7 +5,7 @@ import (
   "bufio"
   "os"
   "strconv"
-  "./lib"
+  "weight"
 )
 
 // this is a comment
